@@ -1,0 +1,4 @@
+class Envaser{
+    direccion;
+    telefono;
+}

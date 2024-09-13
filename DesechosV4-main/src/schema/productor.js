@@ -1,0 +1,4 @@
+class Productor{
+    direccion;
+    telefono;
+}
